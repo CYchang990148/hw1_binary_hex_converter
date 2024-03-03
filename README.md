@@ -40,3 +40,4 @@
 ### Input 1
 ![S__3342340](https://github.com/CYchang990148/hw1_binary_hex_converter/assets/161935555/a56335b4-85a7-4e4d-8e12-fb883a6463b6)
 ### Input 2
+![S__3342342](https://github.com/CYchang990148/hw1_binary_hex_converter/assets/161935555/e005bb8a-f844-4a1d-942b-e91d30684e42)
