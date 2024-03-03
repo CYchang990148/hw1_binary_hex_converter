@@ -7,6 +7,7 @@
 + The integer is then converted into its binary representation with a for loop:
   It iterates through each bit position (from left to right) and calculates whether the current bit should be 0 or 1 based on the powers of 2.
   ```
+  int bi[8];
   for(i=0;i<8;i++){
 		t=pow(2,7-i);
 		if(x>=t){
