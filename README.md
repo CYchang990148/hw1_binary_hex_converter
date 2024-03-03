@@ -37,3 +37,6 @@
   printf("%c%c",hex[n1],hex[n2]);
   ```
 ## Results
+### Input 1
+
+### Input 2
